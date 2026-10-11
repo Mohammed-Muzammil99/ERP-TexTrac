@@ -1,0 +1,8 @@
+{
+  "name": "Remix with fabrication upgrade",
+  "description": "A comprehensive Production ERP for garment manufacturing featuring PO management, real-time tracking across cutting, stitching, finishing, packing, and shipping with Excel integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
